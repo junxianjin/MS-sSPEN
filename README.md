@@ -15,5 +15,5 @@ MS-sSPEN/
 │   ├── protocols/                # Acquisition protocols
 │   ├── psglib/                   # Pulse sequence programs
 │   └── shapelib/                 # RF waveform files
-└── Spiral Sampling/              # Spiral trajectory generation code
+└── Spiral Sampling/              # Spiral trajectory generation & non-Cartesian SR reconstruction
 ```
